@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#e6fffa" />
+      <stop offset="1" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#f7fdf7" />
+  <g transform="translate(80,120)">
+    <rect x="0" y="320" width="1040" height="280" rx="8" fill="#c7f9d6" />
+    <g fill="#0f766e" opacity="0.9">
+      <ellipse cx="520" cy="220" rx="380" ry="100" fill="#b7f3cf" />
+      <rect x="100" y="180" width="160" height="260" rx="8" fill="#22543d" />
+      <rect x="720" y="160" width="140" height="280" rx="8" fill="#1f2937" />
+    </g>
+    <g transform="translate(780,40)">
+      <circle cx="0" cy="0" r="60" fill="#f59e0b" />
+    </g>
+  </g>
+  <g transform="translate(420,360)">
+    <path d="M-200 60 q80 -120 400 -60 q120 -40 200 40 v60 h-680 z" fill="#fef3c7" opacity="0.6" />
+  </g>
+  <text x="70" y="120" font-family="Verdana" font-size="28" fill="#166534">Flowering field</text>
+</svg>

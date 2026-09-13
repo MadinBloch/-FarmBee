@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fffef7"/>
+  <g transform="translate(60,60)">
+    <rect x="0" y="360" width="680" height="160" rx="10" fill="#c7f9d6" />
+    <g fill="#14532d">
+      <rect x="40" y="320" width="100" height="50" rx="6" />
+      <rect x="160" y="300" width="120" height="70" rx="6" />
+      <rect x="320" y="280" width="160" height="90" rx="6" />
+    </g>
+    <circle cx="560" cy="220" r="48" fill="#f59e0b" />
+    <g transform="translate(480,280)">
+      <rect x="0" y="0" width="80" height="80" rx="6" fill="#fff7ed" stroke="#d97706" />
+      <text x="8" y="44" font-size="36" fill="#d97706">👨‍🌾</text>
+    </g>
+  </g>
+</svg>

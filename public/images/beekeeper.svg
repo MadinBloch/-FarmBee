@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fffef7"/>
+  <g transform="translate(40,40)">
+    <rect x="40" y="320" width="640" height="200" rx="10" fill="#fff1d6" />
+    <g fill="#92400e">
+      <rect x="80" y="260" width="120" height="60" rx="6" />
+      <rect x="220" y="260" width="120" height="60" rx="6" />
+      <rect x="360" y="260" width="120" height="60" rx="6" />
+    </g>
+    <g transform="translate(600,200)">
+      <rect x="0" y="0" width="120" height="120" rx="12" fill="#f59e0b" />
+      <text x="18" y="78" font-size="48">🐝</text>
+    </g>
+  </g>
+</svg>
